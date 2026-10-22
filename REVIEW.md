@@ -43,3 +43,32 @@ A IQ Option entrega uma plataforma fácil e barata para começar: US$ 10 de dep�
 Sobre cupons: no momento não há nenhum cupom IQ Option verificado no quotexbonus.com. A checagem é diária. Quando aparecer um código confirmado, ele entra na lista em https://quotexbonus.com.
 
 Seu capital está em risco. Opções digitais e CFDs são operações de alto risco; nunca opere com dinheiro que você não pode perder.
+## Site review (22/10/2026): Código de cupom rejeitado? O que fazer quando o bônus não entra
+
+Você encontrou um código de bônus, foi até a página de depósito da corretora, digitou no campo de código promocional — e ele foi rejeitado. Acontece mais do que parece. E quase nunca é culpa sua: na maioria das vezes, o código simplesmente não está mais válido.
+
+### Por que os códigos param de funcionar
+
+Código de cupom de trading tem prazo. As corretoras trocam as promoções toda semana, e os códigos das campanhas antigas param de funcionar sem aviso. Alguns valem só para uma campanha específica — fim de semana, recarga, boas-vindas — e fora dela são rejeitados.
+
+Também existe o problema da lista desatualizada. Muitos sites publicam um código e nunca mais voltam para conferir.
+
+### O que fazer quando o código é rejeitado
+
+1. Confira a data da última verificação na página do cupom.
+2. Digite o código de novo, exatamente como está — maiúsculas e minúsculas importam.
+3. Verifique o depósito mínimo da promoção.
+4. Leia os termos oficiais na corretora: giro, prazo e saque.
+5. Se nada funcionar, pegue um código verificado recentemente.
+
+### Verificação diária
+
+O CupomTrader (quotexbonus.com) só publica código de Quotex, Pocket Option e IQ Option depois de checar. A checagem se repete todos os dias: a lista passa por revisão, e o código que parou de funcionar sai do ar. As fontes são os canais oficiais das corretoras e agregadores independentes de cupons.
+
+### Transparência
+
+O site usa links de afiliado e pode receber comissão quando alguém se cadastra por ele. Isso não muda o valor do bônus para quem usa: o código funciona igual para todo mundo.
+
+Seu capital está em risco. Operações de trading envolvem risco de perda; nunca opere com dinheiro que você não pode perder.
+
+Cupons checados todos os dias: https://quotexbonus.com

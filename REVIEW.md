@@ -72,3 +72,33 @@ O site usa links de afiliado e pode receber comissão quando alguém se cadastra
 Seu capital está em risco. Operações de trading envolvem risco de perda; nunca opere com dinheiro que você não pode perder.
 
 Cupons checados todos os dias: https://quotexbonus.com
+
+## Site review (24/10/2026)
+
+### Por dentro da verificação: como o CupomTrader decide o que publicar
+
+Todo dia de manhã, a lista de cupons do CupomTrader passa por uma revisão. Código que parou de funcionar sai do ar. Código que continua válido fica. Parece simples, mas por trás existe um processo — e vale explicar como ele funciona, porque a maioria dos sites de cupons não mostra o dela.
+
+#### A checagem diária
+
+A primeira regra do processo é a frequência. Corretoras como Quotex, Pocket Option e IQ Option trocam as promoções com regularidade: campanhas de fim de semana duram poucos dias, ofertas de boas-vindas entram e saem, e códigos que funcionavam na segunda podem estar mortos na sexta. Uma lista conferida "algum dia" envelhece rápido. Por isso a revisão acontece todos os dias, não uma vez por mês.
+
+A cada checagem, cada código da lista é testado de novo: ainda aceita no campo de código promocional? A validade que a página informa continua fazendo sentido? Se a resposta for não, o código sai do ar em vez de ficar ocupando espaço.
+
+#### As fontes
+
+A segunda regra é não confiar em uma fonte só. O processo combina os canais oficiais das corretoras — por exemplo, os grupos e canais oficiais de Telegram onde elas anunciam promoções — com agregadores independentes de cupons. Quando as fontes concordam, a informação é sólida. Quando só uma fonte fala sobre uma data de validade, o site prefere não publicar aquela data como fato. É melhor uma página com menos informação do que uma página com informação errada.
+
+E tem o que é descartado de cara: código achado em repositório de spam, sem histórico e sem confirmação, não entra na lista. Publicar qualquer coisa que aparece por aí é fácil. Difícil é dizer não para um código que parece bom, mas ninguém consegue confirmar.
+
+#### O que isso muda para quem usa
+
+Na prática, significa que quando você abre uma página de cupom no site, alguém já fez o trabalho chato por você: conferir se o código existe, se ainda vale, e quais são as condições. Você ainda precisa ler os termos no site da corretora — bônus têm regras de giro, prazo e saque, e o texto oficial é o que vale — mas pelo menos o ponto de partida é uma lista que foi conferida hoje, não em algum mês passado.
+
+#### Transparência
+
+O CupomTrader usa links de afiliado e pode receber comissão quando alguém se cadastra por ele. Isso não muda o valor do bônus para quem usa: o código funciona igual para todo mundo. A comissão paga o tempo de checar a lista todos os dias; o conteúdo da lista não depende dela.
+
+Seu capital está em risco. Operações de trading envolvem risco de perda; nunca opere com dinheiro que você não pode perder.
+
+Cupons checados todos os dias: https://quotexbonus.com

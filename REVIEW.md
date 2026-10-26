@@ -102,3 +102,37 @@ O CupomTrader usa links de afiliado e pode receber comissão quando alguém se c
 Seu capital está em risco. Operações de trading envolvem risco de perda; nunca opere com dinheiro que você não pode perder.
 
 Cupons checados todos os dias: https://quotexbonus.com
+
+## Site review (26/10/2026)
+
+### Como comparar dois cupons antes de depositar
+
+Dois cupons podem parecer iguais à primeira vista e valer coisas bem diferentes na prática. Um oferece um bônus maior, o outro pede um depósito menor. Um vale por uma semana, o outro expira em dois dias. Antes de escolher, vale ler as condições com calma, porque é nelas que a diferença aparece.
+
+### O percentual não conta a história toda
+
+O número grande do anúncio é o percentual de bônus, mas ele sozinho não diz quanto você precisa depositar nem o que precisa fazer depois para sacar. Um bônus alto com depósito mínimo alto pode sair mais caro do que um bônus menor com entrada baixa, dependendo do valor que você já pretendia depositar. Comece pelo valor que cabe no seu bolso, não pelo percentual do cartaz.
+
+### Depósito mínimo e giro
+
+Depois do percentual, as duas perguntas que mais importam são: qual é o depósito mínimo para ativar o código, e existe exigência de giro antes do saque. Bônus de corretora costuma vir com regras de volume de negociação, prazo e saque, e essas regras variam de uma campanha para outra. Se o giro for alto demais para o seu ritmo de operação, o bônus vira um compromisso, não uma vantagem.
+
+Leia também se o código precisa ser inserido antes do depósito. Em várias corretoras, o campo de código promocional só aceita o código no momento do depósito. Depois que o pagamento é confirmado, não dá para voltar e aplicar o bônus retroativamente.
+
+### Prazo e validade
+
+Cupons de trading duram pouco. Campanhas de fim de semana, ofertas de boas-vindas e promoções sazonais entram e saem da lista com frequência, e um código que funcionava na semana passada pode estar morto hoje. Por isso o CupomTrader confere a lista todos os dias: código que parou de funcionar sai do ar em vez de ficar ocupando espaço, e a checagem cruza os canais oficiais das corretoras com agregadores independentes antes de manter uma página publicada.
+
+Na hora de comparar, prefira o código cuja validade você consegue confirmar hoje. Uma página que mostra quando o código foi verificado pela última vez vale mais do que uma lista longa sem data nenhuma.
+
+### Uma comparação rápida na prática
+
+Pegue os dois cupons que você está considerando e responda, para cada um: qual é o bônus, qual é o depósito mínimo, existe giro ou outra condição de saque, até quando o código vale, e ele ainda foi verificado hoje. O cupom que vence essa comparação nem sempre é o de maior percentual. Muitas vezes é o que pede menos, expira mais tarde e tem regras que você entende de verdade.
+
+### Transparência
+
+O CupomTrader usa links de afiliado e pode receber comissão quando alguém se cadastra por ele. Isso não muda o valor do bônus para quem usa: o código funciona igual para todo mundo. O texto oficial da corretora é o que vale para as condições; o resumo do site serve para comparar, não para substituir os termos.
+
+Seu capital está em risco. Operações de trading envolvem risco de perda; nunca opere com dinheiro que você não pode perder.
+
+Cupons checados todos os dias: https://quotexbonus.com

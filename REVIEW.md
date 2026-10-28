@@ -136,3 +136,37 @@ O CupomTrader usa links de afiliado e pode receber comissão quando alguém se c
 Seu capital está em risco. Operações de trading envolvem risco de perda; nunca opere com dinheiro que você não pode perder.
 
 Cupons checados todos os dias: https://quotexbonus.com
+
+## Site review (28/10/2026)
+
+### Cupom verificado não é promessa de lucro: o que o CupomTrader garante — e o que não garante
+
+Quando um código aparece no quotexbonus.com marcado como verificado, é fácil ler ali mais do que está escrito. Verificado soa como garantia total. Na prática, a palavra cobre uma coisa específica, e entender o limite dela evita a maior parte das frustrações com bônus de corretora.
+
+#### O que "verificado" quer dizer aqui
+
+Verificado quer dizer que, na última checagem, o código constava como ativo na fonte consultada. O CupomTrader confere a lista todos os dias, por volta das 09:00, e a checagem cruza os canais oficiais das corretoras com agregadores independentes antes de manter uma página no ar. Se um código parou de funcionar, ele sai da lista em vez de ficar ocupando espaço.
+
+O resumo publicado na página também vem dessa checagem: ele reflete as condições que a corretora divulgava naquele momento, como percentual, depósito mínimo, prazo e regras de saque. Serve para comparar e decidir, mas não substitui o texto oficial da corretora.
+
+#### O que "verificado" não garante
+
+Primeiro, não garante que o código vai ser aceito na sua conta. Corretoras podem restringir uma campanha por país, tipo de conta, primeiro depósito ou uso anterior de outro bônus. Um código ativo para um trader pode ser recusado para outro, e isso não significa que a lista estava errada.
+
+Segundo, não garante lucro nem saque automático. Bônus de corretora quase sempre vem com condições, e o saque pode depender de volume de negociação, prazo e verificação de conta. Ler essas condições antes de depositar continua sendo responsabilidade de quem vai operar.
+
+Terceiro, não congela as condições no tempo. A corretora pode mudar ou encerrar uma campanha depois da última checagem, e a página só vai refletir a mudança na próxima conferência. Por isso vale confirmar a validade no dia em que você pretende usar o código, e não confiar numa verificação de semanas atrás.
+
+#### Antes de usar qualquer código
+
+Duas checagens evitam a maior parte dos problemas. Leia os termos oficiais da corretora, não só o resumo do site. E confirme se o código precisa ser inserido antes do depósito, porque em várias corretoras o campo promocional só aceita o código no momento do depósito, sem aplicação retroativa depois do pagamento confirmado.
+
+Se o código for recusado, o passo honesto é conferir a validade, as restrições da campanha e os termos atuais antes de tentar de novo. Forçar o mesmo código várias vezes não muda a regra da campanha.
+
+#### Transparência
+
+O CupomTrader usa links de afiliado e pode receber comissão quando alguém se cadastra por ele. Isso não muda o valor do bônus para quem usa e não interfere na verificação: o código funciona igual para todo mundo, e a checagem diária vale tanto para códigos com comissão quanto para os sem.
+
+Seu capital está em risco. Operações de trading envolvem risco de perda; nunca opere com dinheiro que você não pode perder.
+
+Cupons checados todos os dias: https://quotexbonus.com

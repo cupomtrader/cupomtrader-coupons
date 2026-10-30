@@ -170,3 +170,37 @@ O CupomTrader usa links de afiliado e pode receber comissão quando alguém se c
 Seu capital está em risco. Operações de trading envolvem risco de perda; nunca opere com dinheiro que você não pode perder.
 
 Cupons checados todos os dias: https://quotexbonus.com
+
+## Site review (30/10/2026)
+
+### Por que alguns cupons somem do site: o que acontece quando um código sai do ar
+
+Quem acompanha o quotexbonus.com com frequência já deve ter notado: um código que estava na lista num dia não está mais no outro. Isso costuma gerar a pergunta errada. A ausência não significa que o site quebrou, nem que o código era falso desde o começo. Na maioria dos casos, significa que alguma coisa mudou do lado da corretora, e a página foi atualizada para acompanhar.
+
+### Códigos têm prazo, mesmo quando ninguém avisa
+
+O motivo mais comum é simples: a campanha acabou. Corretoras abrem e fecham promoções o tempo todo, às vezes sem anúncio grande. Um código pode valer por semanas e sumir de um dia para o outro porque o período da campanha terminou. Quando a checagem diária do CupomTrader, feita por volta das 09:00, confirma que o prazo passou, a página sai da lista. Manter um código vencido no ar só serviria para frustrar quem tentasse usar.
+
+### A corretora pode mudar as regras no meio do caminho
+
+Outra causa frequente é a mudança de condições. A corretora pode alterar o percentual, o depósito mínimo, o prazo ou as regras de saque de uma campanha que continua existindo. Se o resumo publicado não corresponde mais ao que a corretora divulga, a página precisa ser corrigida ou retirada até a informação ser confirmada de novo. Publicar um resumo desatualizado seria pior do que não publicar nada, porque o leitor tomaria uma decisão com um número errado.
+
+### Quando a fonte não confirma, o código não fica
+
+Existe ainda um terceiro caso, menos visível. Às vezes as fontes não batem: um agregador mostra o código como ativo, o canal oficial não confirma, ou a página da campanha sumiu sem explicação. Nessa situação, o CupomTrader prefere tirar o código da lista a manter uma informação que não conseguiu confirmar. É uma escolha deliberada. Uma lista menor, com tudo checado, vale mais do que uma lista longa cheia de códigos duvidosos.
+
+### O que a remoção não quer dizer
+
+Vale deixar claro o que a saída de um código não significa. Não significa que quem usou o código antes perdeu o bônus que já recebeu, porque as condições valem pelo que a corretora aplicou no momento do uso. Também não significa que o código vai voltar. Alguns voltam em campanhas novas, com condições diferentes; outros simplesmente não voltam. Tratar um código removido como se ainda existisse é o caminho mais curto para um depósito feito com uma expectativa errada.
+
+### O que fazer antes de contar com um código
+
+Três hábitos resolvem a maior parte dos casos. Primeiro, confira a data da última verificação na página antes de depositar, e não uma captura de tela antiga ou um post de semanas atrás. Segundo, leia os termos oficiais da corretora no dia em que pretende usar o código, porque são eles que valem, não o resumo de um site de cupons. Terceiro, se o código sumiu da lista, não tente forçar o uso a partir de uma cópia guardada: a remoção geralmente reflete uma mudança real na campanha.
+
+### Transparência
+
+O CupomTrader usa links de afiliado e pode receber comissão quando alguém se cadastra por ele. Isso não muda o valor do bônus para quem usa e não interfere na decisão de manter ou retirar um código: a checagem diária vale igual para todos, e um código que não se confirma sai da lista independentemente de comissão.
+
+Seu capital está em risco. Operações de trading envolvem risco de perda; nunca opere com dinheiro que você não pode perder.
+
+Cupons checados todos os dias: https://quotexbonus.com

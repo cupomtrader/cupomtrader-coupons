@@ -250,3 +250,33 @@ Por fim, a transparência. O CupomTrader usa links de afiliado e pode receber co
 Antes de contar com qualquer percentual, compare a data da última verificação, leia as condições completas e confira o termo oficial da corretora. O número maior nem sempre é o número certo. Seu capital está em risco.
 
 Veja os códigos mais recentes verificados em https://quotexbonus.com
+
+## Site review (05/11/2026)
+
+### Bônus de boas-vindas, de depósito e de cashback: o que muda entre eles
+
+Quem abre a página de uma corretora encontra três nomes de bônus com frequência: boas-vindas, depósito e cashback. Eles parecem a mesma coisa, mas não são. O nome indica quando o bônus entra, como ele é calculado e o que precisa acontecer antes de qualquer saque. Ler o nome certo evita contar com um valor que nunca chega da forma imaginada.
+
+### Bônus de boas-vindas
+
+O bônus de boas-vindas costuma valer só para o primeiro depósito. Ele aparece uma vez, com um percentual que pode parecer maior do que o dos outros tipos, e some depois que o primeiro depósito é feito. Quem deposita esperando repetir o mesmo percentual no segundo depósito se frustra. A pergunta que vale antes de usar é simples: o bônus vale só no primeiro depósito ou em todos?
+
+### Bônus de depósito
+
+O bônus de depósito funciona de outra forma. Ele acompanha depósitos, às vezes mais de uma vez, e o valor depende do valor depositado. O percentual pode ser menor do que o de boas-vindas, mas ele pode aparecer de novo em depósitos seguintes, conforme a campanha. Aqui o ponto é outro: qual é o depósito mínimo para ativar, se há limite de vezes e até quando a campanha vale. Um percentual sem prazo e sem valor mínimo não diz quase nada.
+
+### Cashback
+
+O cashback é o que mais confunde. Ele não entra como crédito no depósito. Ele devolve parte de um valor já movimentado, em geral depois de um período, e as regras de cálculo variam: pode ser sobre o volume operado, sobre perdas em um período ou sobre uma faixa de depósito. Quem lê "cashback" como "dinheiro de volta na hora" entende errado. Antes de contar com ele, vale conferir como o valor é calculado, quando ele é pago e se ele cai como saldo sacável ou como crédito para operar.
+
+### O que vale para os três
+
+Os três tipos têm uma coisa em comum: o percentual sozinho não basta. Depósito mínimo, prazo, giro exigido antes do saque e a pergunta sobre o que é sacável fazem parte da conta. Um bônus alto com giro alto pode valer menos do que um bônus menor com regras claras. A checagem passa pela página do cupom no quotexbonus.com e, depois, pelos termos da corretora. O CupomTrader confere os códigos todos os dias, por volta das 09:00, em fontes oficiais das corretoras e em agregadores independentes, e retira da lista o que não se confirma.
+
+### Transparência
+
+O CupomTrader usa links de afiliado e pode receber comissão quando alguém se cadastra por ele. Isso não muda o valor do bônus e não interfere na decisão de manter ou retirar um código.
+
+Antes de escolher um bônus pelo nome ou pelo percentual, confira a que tipo ele pertence e leia as condições completas. O bônus certo é o que cabe no depósito que você pode fazer e nas regras que você consegue cumprir. Seu capital está em risco.
+
+Veja os códigos mais recentes verificados em https://quotexbonus.com

@@ -280,3 +280,29 @@ O CupomTrader usa links de afiliado e pode receber comissão quando alguém se c
 Antes de escolher um bônus pelo nome ou pelo percentual, confira a que tipo ele pertence e leia as condições completas. O bônus certo é o que cabe no depósito que você pode fazer e nas regras que você consegue cumprir. Seu capital está em risco.
 
 Veja os códigos mais recentes verificados em https://quotexbonus.com
+
+## Site review (07/11/2026)
+
+### Esperar por um cupom melhor ou usar o que está no ar?
+
+Um código está no ar hoje, com um percentual razoável. A dúvida aparece na hora: esperar uma semana por um código melhor ou usar este agora? O percentual ajuda, mas a decisão passa pelo que o código exige e pelo que pode mudar enquanto você espera.
+
+#### Quando esperar faz sentido
+
+Esperar faz sentido quando não há pressa para depositar. Se o depósito não está planejado para esta semana, não há motivo para prender a decisão a um código que pode sair do ar antes do depósito. Também faz sentido quando o código atual pede um depósito mínimo acima do que você pretende colocar, ou quando o giro exigido não combina com o volume que você opera. Nesses casos, o percentual importa menos do que o encaixe entre o código e o seu plano.
+
+#### O que esperar custa
+
+Esperar também tem custo. Códigos saem do ar quando a campanha acaba, e a campanha pode acabar sem aviso. Um código melhor pode aparecer na semana que vem, mas ninguém pode prometer isso. O CupomTrader confere os códigos todos os dias, por volta das 09:00, em fontes oficiais das corretoras e em agregadores independentes, e retira da lista o que não se confirma. A lista muda. Quem espera por um percentual maior pode acabar sem código nenhum na hora do depósito.
+
+#### Três perguntas antes de decidir
+
+Três perguntas resolvem a maior parte dos casos. O código atual cabe no depósito que você pode fazer? As condições, prazo e giro, cabem no jeito que você opera? Você faria o depósito mesmo sem o bônus? Se as três respostas forem sim, esperar acrescenta pouco. Se alguma for não, vale olhar a condição que não encaixa, porque um código novo pode trazer a mesma condição.
+
+#### Transparência
+
+O CupomTrader usa links de afiliado e pode receber comissão quando alguém se cadastra por ele. Isso não muda o valor do bônus e não interfere na decisão de manter ou retirar um código.
+
+A decisão fica mais simples quando o percentual sai do centro. O código certo é o que cabe no depósito e nas regras que você consegue cumprir, no dia em que você vai depositar. Seu capital está em risco.
+
+Veja os códigos mais recentes verificados em https://quotexbonus.com
